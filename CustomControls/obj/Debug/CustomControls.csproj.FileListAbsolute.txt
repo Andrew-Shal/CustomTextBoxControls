@@ -1,0 +1,4 @@
+C:\Users\shala\source\repos\CustomControls\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\shala\source\repos\CustomControls\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\shala\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\shala\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.pdb
